@@ -1,0 +1,64 @@
+body {
+    background-image: url("/miiaw-core/asset/img/bg/bg.jpg");
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+nav {
+    background-color: rgba(192, 192, 192, 0.575);
+    margin-bottom: 50px;
+}
+
+
+.nav-item:hover {
+    background-color: springgreen;
+}
+
+.konten {
+    background-color: rgba(255, 255, 255, 0);
+}
+
+.judulkonten {
+    padding-top: 20%;
+    text-align: center;
+    color: rgb(0, 0, 0);
+}
+
+
+.btnlog {
+    margin-top: 30px;
+    margin-left: 35%;
+}
+
+.btn {
+    margin-top: 50px;
+    background-image: linear-gradient(to right bottom, #00ff16, #01f713, #02ef0f, #02e70b, #02df07, #06d705, #09d003, #0bc801, #0fbf01, #12b500, #14ac00, #15a300);
+}
+
+.btnreg {
+    margin-left: 20px;
+}
+
+.btn:hover {
+    background-image: linear-gradient(to right bottom, #08bc18, #21c326, #2fc932, #3bd03c, #46d746, #49da48, #4ddd49, #50e04b, #4de045, #4be03e, #48e037, #46e02f);
+}
+
+.btnlap {
+    margin-left: 20px;
+}
+
+.tombol-aksi {
+    margin-top: 10px;
+}
+
+.tombol-aksi:hover {
+    font-weight: bold;
+    background-image: linear-gradient(to right bottom, #00ff1583, #01f71162, #02ef0e62, #02e70a70, #02df0671, #05d70565, #0ad0038a, #0bc80181, #0ebf017c, #12b50083, #14ac009c, #16a30085);
+}
+
+.info {
+    background-color: white;
+    height: 900px;
+    text-align: center;
+    margin-top: 200px;
+}

@@ -1,0 +1,28 @@
+@font-face {
+    font-family: brand;
+    src: url("/miiaw-core/asset/font/aspace_light_demo.otf");
+}
+
+.navbar-brand {
+    font-family: brand;
+}
+
+@font-face {
+    font-family: konten;
+    src: url("/miiaw-core/asset/font/Andina\ free.ttf");
+}
+
+.judulkonten {
+    font-family: konten;
+    font-style: italic;
+    font-weight: bold;
+}
+
+@font-face {
+    font-family: buton;
+    src: url("/miiaw-core/asset/font/GermaniaOne-Regular.ttf");
+}
+
+.btn {
+    font-family: buton;
+}
